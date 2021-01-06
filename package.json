@@ -25,7 +25,7 @@
     "@react-navigation/bottom-tabs": "^5.6.1",
     "@react-navigation/material-top-tabs": "^5.2.12",
     "@react-navigation/native": "^5.6.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "axios-hooks": "^2.1.0",
     "color": "^3.1.2",
     "convert-units": "^2.3.4",
