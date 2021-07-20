@@ -37,7 +37,7 @@
     "qs": "^6.9.4",
     "react": "16.11.0",
     "react-hooks-global-state": "^1.0.1",
-    "react-native": "0.62.2",
+    "react-native": "0.62.3",
     "react-native-background-upload": "^5.7.0",
     "react-native-base64": "^0.1.0",
     "react-native-calendars": "^1.300.0",
